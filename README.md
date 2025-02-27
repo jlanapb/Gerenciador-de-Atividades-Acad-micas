@@ -2,12 +2,14 @@
 Este é um aplicativo desenvolvido em React Native com Expo e TypeScript para ajudar alunos a gerenciarem suas atividades acadêmicas. O app permite cadastrar, visualizar e excluir atividades. 
 
 FUNCIONALIDADES
+
 Cadastro de Atividades: Insira nome, responsável, data e descrição da atividade.
 Listagem de Atividades: Visualize todas as atividades cadastradas.
 Exclusão de Atividades: Remova atividades desnecessárias.
 Persistência de Dados: As atividades são salvas no armazenamento local do dispositivo via AsyncStorage.
 
 TECNOLOGIAS UTILIZADAS:
+
 React Native
 Expo
 TypeScript
